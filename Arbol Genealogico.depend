@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1451429484 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\arbol genealogico\main.cpp
+	<iostream>
+	"Menu.h"
+
+1452143138 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\arbol genealogico\include\menu.h
+	"Arbol.h"
+
+1452141286 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\arbol genealogico\src\arbol.cpp
+	"Arbol.h"
+	<iostream>
+
+1452141238 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\arbol genealogico\include\arbol.h
+	"Nodo.h"
+
+1452140980 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\arbol genealogico\src\nodo.cpp
+	"Nodo.h"
+
+1452143290 c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\arbol genealogico\include\nodo.h
+	<string>
+
+1452143354 source:c:\users\luism\onedrive\google drive\universidad\10mo trimestre\algoritmos y estructura de datos\arbol genealogico\src\menu.cpp
+	"Menu.h"
+	"Arbol.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<winuser.h>
+
